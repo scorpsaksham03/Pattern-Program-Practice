@@ -18,11 +18,6 @@ These programs help in understanding:
 ```text
 * * * * *
 ```
-
-### Logic
-- Single loop
-- Prints stars in one row
-
 ---
 
 ## 2. Column Printing Pattern
@@ -34,10 +29,6 @@ These programs help in understanding:
 *
 *
 ```
-
-### Logic
-- Single loop
-- Prints stars in one column
 
 ---
 
@@ -51,11 +42,6 @@ These programs help in understanding:
 * * * * *
 ```
 
-### Logic
-- Nested loops
-- Outer loop → rows
-- Inner loop → columns
-
 ---
 
 ## 4. Right Triangle Pattern
@@ -68,9 +54,6 @@ These programs help in understanding:
 * * * * *
 ```
 
-### Logic
-- Outer loop controls rows
-- Inner loop prints stars up to current row number
 
 ---
 
@@ -83,10 +66,6 @@ These programs help in understanding:
 * *
 *
 ```
-
-### Logic
-- Rows decrease after every iteration
-
 ---
 
 ## 6. Number Pattern
@@ -99,24 +78,34 @@ These programs help in understanding:
 1 2 3 4 5
 ```
 
-### Logic
-- Nested loops
-- Inner loop prints numbers instead of stars
+## 7. Inverted Number Pattern
+
+```text
+1 2 3 4 5
+1 2 3 4
+1 2 3
+1 2 
+1 
+```
 
 ---
 
-## 7. Repeated Number Pattern
+## 8. Repeated Number Pattern
 
 ```text
-1
+1 1 1 1 1 
+2 2 2 2 2
+3 3 3 3 3
+4 4 4 4 4
+5 5 5 5 5
+```
+```text
+1 
 2 2
 3 3 3
 4 4 4 4
 5 5 5 5 5
 ```
-
-### Logic
-- Outer loop value printed multiple times
 
 ---
 
