@@ -117,15 +117,12 @@ These programs help in understanding:
 ```
 ```text
 
-```text
  _ * 
  _ _ * * 
  _ _ _ * * * 
  _ _ _ _ * * * * 
  _ _ _ _ _ * * * * *
 ```
-```text
-
 ```text
  1 1 1 1 1
  2 2 2 2 1 2
