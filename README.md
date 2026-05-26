@@ -17,6 +17,8 @@ These programs help in understanding:
 
 ```text
 * * * * *
+
+ Refer Program2
 ```
 ---
 
@@ -28,6 +30,8 @@ These programs help in understanding:
 *
 *
 *
+
+ Refer Program1
 ```
 
 ---
@@ -40,6 +44,8 @@ These programs help in understanding:
 * * * * *
 * * * * *
 * * * * *
+
+ Refer Program3
 ```
 
 ---
@@ -52,6 +58,8 @@ These programs help in understanding:
 * * *
 * * * *
 * * * * *
+
+ Refer Program6
 ```
 
 
@@ -65,6 +73,8 @@ These programs help in understanding:
 * * *
 * *
 *
+
+ Refer Program7
 ```
 ---
 
@@ -76,6 +86,8 @@ These programs help in understanding:
 1 2 3
 1 2 3 4
 1 2 3 4 5
+
+ Refer Program8
 ```
 
 ## 7. Inverted Number Pattern
@@ -86,6 +98,8 @@ These programs help in understanding:
 1 2 3
 1 2 
 1 
+
+ Refer Program9
 ```
 
 ---
@@ -98,6 +112,9 @@ These programs help in understanding:
 3 3 3 3 3
 4 4 4 4 4
 5 5 5 5 5
+
+ Refer Program4
+
 ```
 ```text
 1 
@@ -105,6 +122,8 @@ These programs help in understanding:
 3 3 3
 4 4 4 4
 5 5 5 5 5
+
+ Refer Program10
 ```
 ## 8. Patterns made by combining multiple patterns
 
@@ -114,6 +133,9 @@ These programs help in understanding:
  _ _ _ * * * * *
  _ _ _ _ * * * * *
  _ _ _ _ _ * * * * *
+ 
+  Refer Program11
+ 
 ```
 ```text
 
@@ -122,12 +144,16 @@ These programs help in understanding:
  _ _ _ * * * 
  _ _ _ _ * * * * 
  _ _ _ _ _ * * * * *
+ 
+ Refer Program12
 ```
 ```text
  1 1 1 1 1
  2 2 2 2 1 2
  3 3 3 3 1 2 3
  4 4 4 4 1 2 3 4
+ 
+ Refer Program13
 ```
 ```text
   _ _ _ _ _ *
@@ -135,6 +161,8 @@ These programs help in understanding:
   _ _ _ _ _ * * *
   _ _ _ _ _ * * * *
   _ _ _ _ _ * * * * *
+  
+  Refer Program14
 ```
 
 ```text
@@ -143,6 +171,8 @@ These programs help in understanding:
   _ _ _ _ _ * * *
   _ _ _ _ _ * *
   _ _ _ _ _ *
+  
+  Refer Program15
 ```
 
 ```text
@@ -155,12 +185,53 @@ These programs help in understanding:
  _ _ _ _ _ * * *
  _ _ _ _ _ * *
  _ _ _ _ _ *
+ 
+ Refer Program16
 ```
 
+```text
+* * * * *
+_ * * * *
+_ _ * * *
+_ _ _ * *
+_ _ _ _ *
 
+Refer Program17
+```
 
+```text
+ _ _ _ _ *
+ _ _ _ * *
+ _ _ * * *
+ _ * * * *
+ * * * * *
+
+Refer Program18
+```
+
+```text
+         * 
+       * * * 
+     * * * * *
+   * * * * * * *
+ * * * * * * * * * 
+
+Refer Program19
+```
+
+```text
+    * * * * * * * * *
+      * * * * * * *
+        * * * * *
+          * * *
+            *
+
+Refer Program20
+
+```
 
 ---
+
 
 # Concepts Practiced
 
