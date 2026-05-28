@@ -125,7 +125,7 @@ These programs help in understanding:
 
  Refer Program10
 ```
-## 8. Patterns made by combining multiple patterns
+## 9. Patterns made by combining multiple patterns
 
 ```text
  _ * * * * *
@@ -220,15 +220,79 @@ Refer Program19
 ```
 
 ```text
-    * * * * * * * * *
-      * * * * * * *
-        * * * * *
-          * * *
-            *
+ * * * * * * * * *
+   * * * * * * *
+     * * * * *
+       * * *
+         *
 
 Refer Program20
 
 ```
+
+
+## 10. Hollow Patterns
+
+```text
+* * * * *
+* _ _ _ * 
+* _ _ _ * 
+* _ _ _ * 
+* * * * *
+Refer Program21
+
+```
+
+```text
+* 
+* * 
+* _ * 
+* _ _ *  
+* * * * *
+Refer Program22
+
+```
+
+```text
+ * * * * *
+ * _ _ *
+ * _ *
+ * *
+ *
+Refer Program23
+
+```
+
+```text
+         *
+       * _ *
+     * _ _ _ *
+   * * * * * * * 
+Refer Program24
+
+```
+
+```text
+    * * * * * * *
+      * _ _ _ *
+        * _ *
+          *
+Refer Program25
+
+```
+
+```text
+        *
+      * _ *
+    * _ _ _ *
+  * _ _ _ _ _ *
+    * _ _ _ *
+      * _ *
+        *
+Refer Program26
+
+```
+
 
 ---
 
