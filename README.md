@@ -90,6 +90,26 @@ These programs help in understanding:
  Refer Program8
 ```
 
+```text
+_1__2__3__4
+_5__6__7__8
+_9_10_11_12
+13_14_15_16
+
+ Refer Program27
+```
+```text
+FLOYD'S TRIANGLE
+1 
+2 3
+4 5 6
+7 8 9 10
+11 12 13 14 15
+
+ Refer Program28
+```
+
+
 ## 7. Inverted Number Pattern
 
 ```text
